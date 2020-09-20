@@ -8,4 +8,4 @@ cd t-cryptography-master
 
 cd t-cryptography-master
 
-python t-crypt.py
+python t-crypt.py 
