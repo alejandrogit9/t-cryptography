@@ -7,12 +7,10 @@ creado por la necesidad del anonimato al compartir algun
 mensaje se baso principalmente de la clave murcielago y 
 fue modificado a mis necesidades y gustos, a continuación
 mostrare la tabla que define graficamente el codifo BlackCode
-______________________________________________________________________
-| -   b    |   ,   <   °   &   4   .   2   $   +   3   %    *   ¬   =   ~   /   ¿    1    (    5   )    9    7  |
-|_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ _ _ _ _ _ _ _ _ _ _ |
-|                                                                                                                                         |
-|A   B   C  D   E   F    G   H   I   J   K   L   M   N    O   P   Q   R   S   T   U   V   W   X   Y    Z   |
---------------------------------------------------------------------------------------------------------------------------------------------
+
+-   b    |   ,   <   °   &   4   .   2   $   +   3   %    *   ¬   =   ~   /   ¿   1   (   5   )   9   7      
+
+A   B   C    D   E   F   G   H   I   J   K   L   M   N    O   P   Q   R   S   T   U   V   W   X   Y    Z  
 
 
 Base64:
