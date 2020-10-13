@@ -1,4 +1,4 @@
-[𝑰𝑵𝑺𝑻𝑨𝑳𝑨𝑪𝑰𝑶𝑵]:
+[INSTALACION]:
 
 🅻🅸🅽🆄🆇
 
@@ -14,6 +14,18 @@ python3 t-crypt.py
 
 [ En desarrollo ]
 
-ꜱɪ ᴛɪᴇɴᴇ ᴀʟɢᴜɴᴀ ꜱᴜɢᴇʀᴇɴᴄɪᴀ ᴏ ꜱᴇ ᴘᴇʀᴄᴀᴛᴀ ᴅᴇ ᴀʟɢᴜɴ ᴇʀʀᴏʀ ᴄᴏɴ ɢᴜꜱᴛᴏ ᴘᴜᴇᴅᴇ ᴄᴏɴᴛᴀᴄᴛᴀʀᴍᴇ ᴀQᴜɪ
+
+
+
+
+
+
+
+
+
+
+
+
+SI TIENE ALGUNA SUGERENCIA O SE PERCATA DE ALGUN ERROR CON GUSTO PUEDE CONTACTARME AQUI:
 
 https://www.instagram.com/alejandrogit9/
