@@ -17,7 +17,7 @@ imprimir_texto(Fore.CYAN+"[FACEBOOK]:  https://www.facebook.com/profile.php?id=1
 
 print(Fore.CYAN+"Presione [ENTER]")
 input("")
-os.system("cls")
+os.system("clear")
 
 
 
@@ -39,7 +39,7 @@ while True:
 +====================[T-CRYPTOGRAPHY]====================+ \n''')
 
         y = input(Fore.WHITE+"[Opcion]: ")
-        os.system("cls")
+        os.system("clear")
 
         if y== '1':
                 print("")
@@ -50,7 +50,7 @@ while True:
                 print("|[0] Salir                    |")
                 print("+-----------------------------+")
                 b = int(input("> "))
-                os.system('cls')
+                os.system("clear")
                 
 
                 while b !=0:
@@ -132,7 +132,7 @@ while True:
                         print("+-----------------------------+")
 
                         b = int(input(Fore.WHITE+"[Opcion]: "))
-                        os.system('cls')
+                        os.system("clear")
 
         elif y =='2':
                 print("")
@@ -144,7 +144,7 @@ while True:
                 print("|[0] Salir                |")       
                 print("+-------------------------+")
                 bs = int(input("> "))
-                os.system('cls')
+                os.system("clear")
                 
                 while bs !=0:
                         if bs ==1:
@@ -175,7 +175,7 @@ while True:
                         print("|[0] Salir                |")       
                         print("+-------------------------+")    
                         bs = int(input(Fore.WHITE+"[Opcion]: "))
-                        os.system('cls')
+                        os.system("clear")
 
 
         elif y =='3':
@@ -238,7 +238,7 @@ while True:
              print("|[0] Salir                   |")       
              print("+----------------------------+")
              b = int(input("> "))
-             os.system('cls')
+             os.system("clear")
 
              while b !=0:
                   if b == 1:
@@ -267,7 +267,7 @@ while True:
                   print("|[0] Salir                   |")       
                   print("+----------------------------+")
                   b = int(input(Fore.WHITE+"[Opcion]: "))
-                  os.system('cls')
+                  os.system("clear")
  
 
         elif y =='4':
@@ -280,7 +280,7 @@ while True:
             print("|[0] Salir                |")       
             print("+-------------------------+")
             r = int(input("> "))
-            os.system('cls')
+            os.system("clear")
 
             while r !=0:
                     
@@ -348,7 +348,7 @@ while True:
                 print("|[0] Salir                |")       
                 print("+-------------------------+")
                 r = int(input(Fore.WHITE+"[Opcion]: "))
-                os.system('cls')
+                os.system("clear")
 
         elif y =='5':
              print("")
@@ -360,7 +360,7 @@ while True:
              print("|[0] Salir                |")       
              print("+-------------------------+")
              fe = int(input("> "))
-             os.system("cls")
+             os.system("clear")
 
 
              while fe !=0:
@@ -425,7 +425,7 @@ while True:
         elif y =='6':
             print("")   
             input(Fore.RED+"[Presione E̳N̳T̳E̳R̳]")
-            os.system("cls")
+            os.system("clear")
             sys.exit(101)     
                        
 
