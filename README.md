@@ -1,6 +1,6 @@
 Instalacion:
 
-git clone 
+git clone https://github.com/alejandrogit9/T-Crypt.git
 
 cd T-Crypt
 
