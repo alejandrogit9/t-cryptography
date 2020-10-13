@@ -1,4 +1,4 @@
-Instalacion:
+[INSTALACION]:
 
 git clone https://github.com/alejandrogit9/T-Crypt.git
 
