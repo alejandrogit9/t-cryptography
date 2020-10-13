@@ -12,18 +12,13 @@ python3 t-crypt.py
 
 🆆🅸🅽🅳🅾🆆🆂:
 
-[ En desarrollo ]
+[INSTALACION]:
 
+Download ZIP
 
+pip3 install -r requirements.txt
 
-
-
-
-
-
-
-
-
+Ejecute t-cryptWindows.exe
 
 
 SI TIENE ALGUNA SUGERENCIA O SE PERCATA DE ALGUN ERROR CON GUSTO PUEDE CONTACTARME AQUI:
