@@ -8,7 +8,7 @@ cd T-Crypt
 
 pip3 install -r requirements.txt
 
-[Ejecucion]
+[Ejecucion] ->
 python3 t-crypt.py
 
 🆆🅸🅽🅳🅾🆆🆂:
@@ -37,7 +37,7 @@ cd T-Crypt
 
 pip3 install -r requirements.txt
 
-[Ejecucion]
+[Ejecucion]->
 python t-crypt.py
 
 
